@@ -1,0 +1,10 @@
+{
+    "name": "TinyBot",
+    "version": "0.0.1",
+    "description": "Discord bot that interacts with the DotaPicker API.",
+    "main": "bot.js",
+    "author": "jtcarse",
+    "dependencies": {
+        "discord.js": "^11.4.2"
+    }
+}
